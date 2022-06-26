@@ -59,7 +59,7 @@
     "@types/swagger-jsdoc": "^6.0.1",
     "@types/swagger-ui-express": "^3.0.1",
     "chai": "^4.2.0",
-    "jsdoc": "^3.6.3",
+    "jsdoc": "^3.6.10",
     "mocha": "^6.2.2",
     "nodemon": "^1.19.4",
     "source-map-loader": "^0.2.4",
